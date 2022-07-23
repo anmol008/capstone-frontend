@@ -1,0 +1,9 @@
+#productDescrip{
+    float: left;
+}
+#priceDescrip{
+    float: right;
+}
+#description{
+    clear: both;
+}
